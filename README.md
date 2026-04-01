@@ -16,12 +16,12 @@
 ## 🧩 Description | Descripción
 
 **EN 🇺🇸**  
-Dzulclass is a web-based system designed to manage **clothing products, inventory, and business data**.  
+StoreShoes is a web-based system designed to manage **clothing products, inventory, and business data**.  
 
 It focuses on backend development using Laravel, applying structured data handling and real-world business logic.
 
 **ES 🇲🇽**  
-Dzulclass es un sistema web diseñado para gestionar **productos de ropa, inventario y datos del negocio**.  
+StoreShoes es un sistema web diseñado para gestionar **productos de ropa, inventario y datos del negocio**.  
 
 Se enfoca en desarrollo backend con Laravel, aplicando manejo estructurado de datos y lógica de negocio.
 
@@ -46,10 +46,10 @@ Los sistemas pequeños de inventario suelen carecer de:
 ## 💡 Solution | Solución
 
 **EN 🇺🇸**  
-Dzulclass implements a structured backend system using Laravel to manage products and inventory efficiently.
+StoreShoes implements a structured backend system using Laravel to manage products and inventory efficiently.
 
 **ES 🇲🇽**  
-Dzulclass implementa un sistema backend estructurado con Laravel para gestionar productos e inventario de forma eficiente.
+StoreShoes implementa un sistema backend estructurado con Laravel para gestionar productos e inventario de forma eficiente.
 
 ---
 
@@ -107,8 +107,8 @@ Permite organización estructurada, separación de responsabilidades y escalabil
 ## PROJECT_DATA
 
 name:
-  en: Dzulclass
-  es: Dzulclass
+  en: StoreShoes
+  es: StoreShoes
 
 description:
   en: Clothing inventory management system built with Laravel
@@ -188,7 +188,7 @@ repo: https://github.com/Alucarduwu/Dzulclass
 
 ## 🚀 Installation
 
-git clone https://github.com/Alucarduwu/Dzulclass.git  
+git clone https://github.com/Alucarduwu/StoreShoes.git  
 cd Dzulclass  
 composer install  
 cp .env.example .env  
