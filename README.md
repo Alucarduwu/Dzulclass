@@ -1,4 +1,4 @@
-<h1 align="center">👕 Dzulclass</h1>
+<h1 align="center">👕 StoreShoes</h1>
 
 <p align="center">
   <b>Clothing Management System</b><br/>
